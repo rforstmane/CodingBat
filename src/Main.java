@@ -5,7 +5,8 @@ public class Main {
 //        SleepIn.doAll();
 //        monkey.doAll();
 //        SumDouble.doAll();
-        diff21.doAll();
+//        diff21.doAll();
+        parrotTrouble.doAll();
 
     }
 
