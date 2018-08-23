@@ -8,7 +8,8 @@ public class Main {
 //        diff21.doAll();
 //        parrotTrouble.doAll();
 //        makes10.doAll();
-        nearHundred.doAll();
+//        nearHundred.doAll();
+        posNeg.doAll();
 
     }
 
