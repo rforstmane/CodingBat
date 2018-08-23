@@ -9,7 +9,8 @@ public class Main {
 //        parrotTrouble.doAll();
 //        makes10.doAll();
 //        nearHundred.doAll();
-        posNeg.doAll();
+//        posNeg.doAll();
+        notString.doAll();
 
     }
 
