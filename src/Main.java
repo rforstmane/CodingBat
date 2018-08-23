@@ -7,7 +7,8 @@ public class Main {
 //        SumDouble.doAll();
 //        diff21.doAll();
 //        parrotTrouble.doAll();
-        makes10.doAll();
+//        makes10.doAll();
+        nearHundred.doAll();
 
     }
 
