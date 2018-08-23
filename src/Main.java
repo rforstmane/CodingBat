@@ -11,7 +11,8 @@ public class Main {
 //        nearHundred.doAll();
 //        posNeg.doAll();
 //        notString.doAll();
-        missingChar.doAll();
+//        missingChar.doAll();
+        frontBack.doAll();
 
     }
 
