@@ -10,7 +10,8 @@ public class Main {
 //        makes10.doAll();
 //        nearHundred.doAll();
 //        posNeg.doAll();
-        notString.doAll();
+//        notString.doAll();
+        missingChar.doAll();
 
     }
 
