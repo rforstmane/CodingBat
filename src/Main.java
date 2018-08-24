@@ -12,7 +12,8 @@ public class Main {
 //        posNeg.doAll();
 //        notString.doAll();
 //        missingChar.doAll();
-        frontBack.doAll();
+//        frontBack.doAll();
+        front3.doAll();
 
     }
 
