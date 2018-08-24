@@ -18,7 +18,8 @@ public class Main {
 //        or35.doAll();
 //        front22.doAll();
 //        startHi.doAll();
-        icuHot.doAll();
+//        icuHot.doAll();
+        in1020.doAll();
 
 
 
