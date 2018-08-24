@@ -20,7 +20,8 @@ public class Main {
 //        startHi.doAll();
 //        icuHot.doAll();
 //        in1020.doAll();
-        hasTeen.doAll();
+//        hasTeen.doAll();
+        loneTeen.doAll();
 
 
 
