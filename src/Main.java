@@ -19,7 +19,8 @@ public class Main {
 //        front22.doAll();
 //        startHi.doAll();
 //        icuHot.doAll();
-        in1020.doAll();
+//        in1020.doAll();
+        hasTeen.doAll();
 
 
 
