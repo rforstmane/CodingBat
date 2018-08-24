@@ -15,7 +15,8 @@ public class Main {
 //        frontBack.doAll();
 //        front3.doAll();
 //        backAround.doAll();
-        or35.doAll();
+//        or35.doAll();
+        front22.doAll();
 
 
     }
