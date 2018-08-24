@@ -16,7 +16,8 @@ public class Main {
 //        front3.doAll();
 //        backAround.doAll();
 //        or35.doAll();
-        front22.doAll();
+//        front22.doAll();
+        startHi.doAll();
 
 
     }
