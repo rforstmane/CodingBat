@@ -14,7 +14,9 @@ public class Main {
 //        missingChar.doAll();
 //        frontBack.doAll();
 //        front3.doAll();
-        backAround.doAll();
+//        backAround.doAll();
+        or35.doAll();
+
 
     }
 
