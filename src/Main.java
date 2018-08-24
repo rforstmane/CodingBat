@@ -17,7 +17,9 @@ public class Main {
 //        backAround.doAll();
 //        or35.doAll();
 //        front22.doAll();
-        startHi.doAll();
+//        startHi.doAll();
+        icuHot.doAll();
+
 
 
     }
