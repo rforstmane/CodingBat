@@ -13,7 +13,8 @@ public class Main {
 //        notString.doAll();
 //        missingChar.doAll();
 //        frontBack.doAll();
-        front3.doAll();
+//        front3.doAll();
+        backAround.doAll();
 
     }
 
