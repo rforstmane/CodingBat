@@ -21,7 +21,8 @@ public class Main {
 //        icuHot.doAll();
 //        in1020.doAll();
 //        hasTeen.doAll();
-        loneTeen.doAll();
+//        loneTeen.doAll();
+        delDel.doAll();
 
 
 
