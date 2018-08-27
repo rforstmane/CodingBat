@@ -23,7 +23,8 @@ public class Main {
 //        hasTeen.doAll();
 //        loneTeen.doAll();
 //        delDel.doAll();
-        mixStart.doAll();
+//        mixStart.doAll();
+        startOz.doAll();
 
 
 
