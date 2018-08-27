@@ -22,7 +22,8 @@ public class Main {
 //        in1020.doAll();
 //        hasTeen.doAll();
 //        loneTeen.doAll();
-        delDel.doAll();
+//        delDel.doAll();
+        mixStart.doAll();
 
 
 
