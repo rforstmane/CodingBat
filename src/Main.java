@@ -24,10 +24,11 @@ public class Main {
 //        loneTeen.doAll();
 //        delDel.doAll();
 //        mixStart.doAll();
-        startOz.doAll();
+//        startOz.doAll();
+        intMax.doAll();
 
 
+
+         }
 
     }
-
-}
