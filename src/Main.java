@@ -25,7 +25,8 @@ public class Main {
 //        delDel.doAll();
 //        mixStart.doAll();
 //        startOz.doAll();
-        intMax.doAll();
+//        intMax.doAll();
+        close10.doAll();
 
 
 
