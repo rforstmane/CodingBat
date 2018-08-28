@@ -26,7 +26,8 @@ public class Main {
 //        mixStart.doAll();
 //        startOz.doAll();
 //        intMax.doAll();
-        close10.doAll();
+//        close10.doAll();
+        in3050.doAll();
 
 
 
