@@ -27,7 +27,8 @@ public class Main {
 //        startOz.doAll();
 //        intMax.doAll();
 //        close10.doAll();
-        in3050.doAll();
+//        in3050.doAll();
+        max1020.doAll();
 
 
 
