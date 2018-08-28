@@ -28,7 +28,8 @@ public class Main {
 //        intMax.doAll();
 //        close10.doAll();
 //        in3050.doAll();
-        max1020.doAll();
+//        max1020.doAll();
+        stringE.doAll();
 
 
 
